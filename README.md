@@ -6,7 +6,7 @@ Student of RSU Computer Engineering
 
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [deez](http://https://github.com/SuphawitGot)
-* ✉️  You can contact me at [zazagot3@mail.com](mailto:zazagot3@mail.com)
+* ✉️  You can contact me at [zazagot3@mail.com](mailto:zazagot3@gmail.com)
 * 🧠  I'm learning C and C++
 * ⚡  bra bra bra
 
