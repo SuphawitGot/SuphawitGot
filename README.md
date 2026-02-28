@@ -4,11 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student of RSU Computer Engineering
 -----------------------------------
 
-* 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [deez](http://https://github.com/SuphawitGot)
-* ✉️  You can contact me at [zazagot3@mail.com](mailto:zazagot3@gmail.com)
-* 🧠  I'm learning C and C++
-* ⚡  bra bra bra
 
 ### Skills
 
