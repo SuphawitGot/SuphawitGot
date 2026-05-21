@@ -1,7 +1,7 @@
 Hi My name is Suphawit Sudsounk
 =========================================================================================================================================
 
-Student of RSU Computer Engineering
+Student of Rangsit University
 -----------------------------------
 
 
